@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from "react";
-import {Card, CardHeader, CardBody, CardFooter, Divider, Link, Image, Button} from "@nextui-org/react";
+import {Card, CardHeader, CardBody, CardFooter, Divider, Button} from "@nextui-org/react";
 
 export default function Counter() {
   
